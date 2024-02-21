@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class INVERTEDPYRAMIDPATTERN {
+public class INVERTEDPYRAMIDPATTERN { 
     private static Scanner sc;
 
     public static void main(String[] args) {
